@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif,'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: center;
+}
+sub{
+    font-size: 14px;
+}
+
+caption{
+    background-color: blanchedalmond;
+    font-size: 22px;
+    font-weight: bolder;
+    font-style: italic;
+}
+table{
+    width: 400px;
+    border: 4px inset yellow;
+   
+}
+input{
+    margin: 8px ;
+}
